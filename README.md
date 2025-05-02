@@ -13,7 +13,7 @@
           
 </div>
 
-<h2 align:center></h2>
+<h2 align:center>Click to View</h2>
 
 *`Demo`*
 #
